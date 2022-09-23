@@ -10,7 +10,7 @@ public class Main {
     Grasspokemon bulbasaur = new Grasspokemon("bulbasaur",4,60,"grass", "bulba bulba!","seeds",true,"jamaica");
         //water
     WaterPokemon squirtlle = new WaterPokemon("squirtlle", 8,70,"water","blub blub..","seaweed","a",80);
-
+    WaterPokemon staryu = new WaterPokemon("staryu",14,95,"water", "Star Star!", "Starfish","a",70);
    squirtlle.hydroCanon();
         squirtlle.hydroPump();
         squirtlle.eats();
